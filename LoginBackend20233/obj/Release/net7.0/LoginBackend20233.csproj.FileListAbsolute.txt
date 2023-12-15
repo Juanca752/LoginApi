@@ -1,0 +1,8 @@
+C:\Users\Juan Carlos\source\repos\LoginBackend20233\LoginBackend20233\obj\Release\net7.0\LoginBackend20233.csproj.AssemblyReference.cache
+C:\Users\Juan Carlos\source\repos\LoginBackend20233\LoginBackend20233\obj\Release\net7.0\LoginBackend20233.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Carlos\source\repos\LoginBackend20233\LoginBackend20233\obj\Release\net7.0\LoginBackend20233.AssemblyInfoInputs.cache
+C:\Users\Juan Carlos\source\repos\LoginBackend20233\LoginBackend20233\obj\Release\net7.0\LoginBackend20233.AssemblyInfo.cs
+C:\Users\Juan Carlos\source\repos\LoginBackend20233\LoginBackend20233\obj\Release\net7.0\LoginBackend20233.csproj.CoreCompileInputs.cache
+C:\Users\Juan Carlos\source\repos\LoginBackend20233\LoginBackend20233\obj\Release\net7.0\LoginBackend20233.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Juan Carlos\source\repos\LoginBackend20233\LoginBackend20233\obj\Release\net7.0\LoginBackend20233.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Juan Carlos\source\repos\LoginBackend20233\LoginBackend20233\obj\Release\net7.0\LoginBackend20233.sourcelink.json
